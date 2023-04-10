@@ -14,7 +14,7 @@ app.use(cors());
 app.set("view engine", "ejs");
 
 //Modify your URL here
-var hostURL="https://trackdown.baizidmostofa1.repl.co";
+var hostURL="5615624691:AAFaJ-HVpzI7HiCHT-92zmYt4gFFOg3E5CA";
 //TOGGLE for Shorters
 var use1pt=true;
 
